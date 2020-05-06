@@ -1,0 +1,27 @@
+Maths:-
+https://www.udemy.com/course/trig-by-krista-king/
+https://www.udemy.com/course/trigonometry-the-unit-circle-angles-right-triangles/
+https://www.udemy.com/course/calculus-1-limits-and-continuity/
+https://www.udemy.com/course/statistics-probability/
+https://www.udemy.com/course/master-discrete-mathematics/
+https://www.udemy.com/course/geometry-basics/
+
+
+Unity Maths:=
+https://www.udemy.com/course/games_mathematics/
+https://www.udemy.com/course/become-a-game-designer/ ***
+
+
+
+Multhithreading, concurrency and garbage collector stuff:-
+https://www.udemy.com/course/java-multithreading-concurrency-performance-optimization/
+https://www.udemy.com/course/multithreading-and-parallel-computing-in-java/
+https://www.udemy.com/course/java-application-performance-and-memory-management/
+https://www.udemy.com/course/java-memory-management/
+https://www.udemy.com/course/advanced-c-programming-pointers/
+https://www.udemy.com/course/computer-science-101-master-the-theory-behind-programming/
+
+
+UI design:-
+https://www.udemy.com/course/design-rules/
+https://www.udemy.com/course/web-design-for-beginners-real-world-coding-in-html-css/
